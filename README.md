@@ -34,3 +34,6 @@ This repository contains a simple and quick implementation of a **Fake News Dete
 2. Install Streamlit if not already installed:
    ```bash
    pip install streamlit
+3. Run the App.py 
+
+### Step 3: Dataset link: https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets?resource=download
